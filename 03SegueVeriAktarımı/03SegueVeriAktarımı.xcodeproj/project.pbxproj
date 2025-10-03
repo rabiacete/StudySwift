@@ -7,32 +7,32 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		11A816092E7C382000003A67 /* studyTurkcell.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = studyTurkcell.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		11AF24522E905A4400CC984E /* 03SegueVeriAktarımı.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "03SegueVeriAktarımı.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		11A8161B2E7C382200003A67 /* Exceptions for "studyTurkcell" folder in "studyTurkcell" target */ = {
+		11AF24642E905A4500CC984E /* Exceptions for "03SegueVeriAktarımı" folder in "03SegueVeriAktarımı" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 11A816082E7C382000003A67 /* studyTurkcell */;
+			target = 11AF24512E905A4400CC984E /* 03SegueVeriAktarımı */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		11A8160B2E7C382000003A67 /* studyTurkcell */ = {
+		11AF24542E905A4400CC984E /* 03SegueVeriAktarımı */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				11A8161B2E7C382200003A67 /* Exceptions for "studyTurkcell" folder in "studyTurkcell" target */,
+				11AF24642E905A4500CC984E /* Exceptions for "03SegueVeriAktarımı" folder in "03SegueVeriAktarımı" target */,
 			);
-			path = studyTurkcell;
+			path = "03SegueVeriAktarımı";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		11A816062E7C382000003A67 /* Frameworks */ = {
+		11AF244F2E905A4400CC984E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,18 +42,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		11A816002E7C382000003A67 = {
+		11AF24492E905A4400CC984E = {
 			isa = PBXGroup;
 			children = (
-				11A8160B2E7C382000003A67 /* studyTurkcell */,
-				11A8160A2E7C382000003A67 /* Products */,
+				11AF24542E905A4400CC984E /* 03SegueVeriAktarımı */,
+				11AF24532E905A4400CC984E /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		11A8160A2E7C382000003A67 /* Products */ = {
+		11AF24532E905A4400CC984E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				11A816092E7C382000003A67 /* studyTurkcell.app */,
+				11AF24522E905A4400CC984E /* 03SegueVeriAktarımı.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,64 +61,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		11A816082E7C382000003A67 /* studyTurkcell */ = {
+		11AF24512E905A4400CC984E /* 03SegueVeriAktarımı */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 11A8161C2E7C382200003A67 /* Build configuration list for PBXNativeTarget "studyTurkcell" */;
+			buildConfigurationList = 11AF24652E905A4500CC984E /* Build configuration list for PBXNativeTarget "03SegueVeriAktarımı" */;
 			buildPhases = (
-				11A816052E7C382000003A67 /* Sources */,
-				11A816062E7C382000003A67 /* Frameworks */,
-				11A816072E7C382000003A67 /* Resources */,
+				11AF244E2E905A4400CC984E /* Sources */,
+				11AF244F2E905A4400CC984E /* Frameworks */,
+				11AF24502E905A4400CC984E /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				11A8160B2E7C382000003A67 /* studyTurkcell */,
+				11AF24542E905A4400CC984E /* 03SegueVeriAktarımı */,
 			);
-			name = studyTurkcell;
+			name = "03SegueVeriAktarımı";
 			packageProductDependencies = (
 			);
-			productName = studyTurkcell;
-			productReference = 11A816092E7C382000003A67 /* studyTurkcell.app */;
+			productName = "03SegueVeriAktarımı";
+			productReference = 11AF24522E905A4400CC984E /* 03SegueVeriAktarımı.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		11A816012E7C382000003A67 /* Project object */ = {
+		11AF244A2E905A4400CC984E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1640;
 				LastUpgradeCheck = 1640;
 				TargetAttributes = {
-					11A816082E7C382000003A67 = {
+					11AF24512E905A4400CC984E = {
 						CreatedOnToolsVersion = 16.4;
 					};
 				};
 			};
-			buildConfigurationList = 11A816042E7C382000003A67 /* Build configuration list for PBXProject "studyTurkcell" */;
+			buildConfigurationList = 11AF244D2E905A4400CC984E /* Build configuration list for PBXProject "03SegueVeriAktarımı" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 11A816002E7C382000003A67;
+			mainGroup = 11AF24492E905A4400CC984E;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 11A8160A2E7C382000003A67 /* Products */;
+			productRefGroup = 11AF24532E905A4400CC984E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				11A816082E7C382000003A67 /* studyTurkcell */,
+				11AF24512E905A4400CC984E /* 03SegueVeriAktarımı */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		11A816072E7C382000003A67 /* Resources */ = {
+		11AF24502E905A4400CC984E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -128,7 +128,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		11A816052E7C382000003A67 /* Sources */ = {
+		11AF244E2E905A4400CC984E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -138,7 +138,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		11A8161D2E7C382200003A67 /* Debug */ = {
+		11AF24662E905A4500CC984E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -147,7 +147,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = CX79GWG6T4;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = studyTurkcell/Info.plist;
+				INFOPLIST_FILE = "03SegueVeriAktarımı/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -158,7 +158,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.studyTurkcell;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.example.-3SegueVeriAktar-m-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -166,7 +166,7 @@
 			};
 			name = Debug;
 		};
-		11A8161E2E7C382200003A67 /* Release */ = {
+		11AF24672E905A4500CC984E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -175,7 +175,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = CX79GWG6T4;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = studyTurkcell/Info.plist;
+				INFOPLIST_FILE = "03SegueVeriAktarımı/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -186,7 +186,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.studyTurkcell;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.example.-3SegueVeriAktar-m-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -194,7 +194,7 @@
 			};
 			name = Release;
 		};
-		11A8161F2E7C382200003A67 /* Debug */ = {
+		11AF24682E905A4500CC984E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -247,7 +247,6 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_KEY_UIMainStoryboardFile = main;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
@@ -259,7 +258,7 @@
 			};
 			name = Debug;
 		};
-		11A816202E7C382200003A67 /* Release */ = {
+		11AF24692E905A4500CC984E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -306,7 +305,6 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_KEY_UIMainStoryboardFile = main;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
@@ -320,25 +318,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		11A816042E7C382000003A67 /* Build configuration list for PBXProject "studyTurkcell" */ = {
+		11AF244D2E905A4400CC984E /* Build configuration list for PBXProject "03SegueVeriAktarımı" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				11A8161F2E7C382200003A67 /* Debug */,
-				11A816202E7C382200003A67 /* Release */,
+				11AF24682E905A4500CC984E /* Debug */,
+				11AF24692E905A4500CC984E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		11A8161C2E7C382200003A67 /* Build configuration list for PBXNativeTarget "studyTurkcell" */ = {
+		11AF24652E905A4500CC984E /* Build configuration list for PBXNativeTarget "03SegueVeriAktarımı" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				11A8161D2E7C382200003A67 /* Debug */,
-				11A8161E2E7C382200003A67 /* Release */,
+				11AF24662E905A4500CC984E /* Debug */,
+				11AF24672E905A4500CC984E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 11A816012E7C382000003A67 /* Project object */;
+	rootObject = 11AF244A2E905A4400CC984E /* Project object */;
 }

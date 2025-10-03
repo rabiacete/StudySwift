@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  02IdentifierEkranGecisi
+//  03SegueVeriAktarımı
 //
 //  Created by Rabia Çete on 3.10.2025.
 //
