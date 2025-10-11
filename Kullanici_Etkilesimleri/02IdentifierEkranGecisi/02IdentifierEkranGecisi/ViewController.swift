@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  02IdentifierEkranGecisi
 //
-//  Created by Rabia Çete on 3.10.2025.
+//  Created by
 //
 
 import UIKit

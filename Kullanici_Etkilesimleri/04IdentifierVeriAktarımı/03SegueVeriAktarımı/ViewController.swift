@@ -2,8 +2,7 @@
 //  ViewController.swift
 //  03SegueVeriAktarımı
 //
-//  Created by Rabia Çete on 3.10.2025.
-//
+//  Created by 
 
 import UIKit
 
